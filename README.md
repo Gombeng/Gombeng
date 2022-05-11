@@ -30,6 +30,8 @@
 ### :man_technologist: About Me:
 I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gombeng&layout=compact&theme=vision-friendly-dark)](https://github.com/Gombeng/github-readme-stats)
+
 ---
 
 ### :hammer: Tech:
@@ -53,8 +55,10 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" **alt="Trello" width="40" height="40"/>&nbsp;&nbsp;
-
 </div>
+
+---
+
 
 
 
