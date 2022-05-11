@@ -1,34 +1,88 @@
-# Hi! I'm Syahrizal 👋
+# Syahrizal Portfolio
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://gombeng-portfolio.netlify.app/)
+> Simple portfolio made using ReactJS
+> Live demo [_here_](https://gombeng-portfolio.netlify.app/). <!-- If you have the project hosted somewhere, include the link here. -->
 
-## I'm a Student and Front End Developer
+## Table of Contents
 
-- 🌱 I’m currently learning everything
-- 🥅 2022 Goals: Graduate from University
-- ⚡ Fun fact: I love u (girl only)
+- [General Info](#general-information)
+- [Technologies Used](#technologies-used)
+<!-- * [Features](#features) -->
+- [Screenshots](#screenshots)
+  <!-- * [Setup](#setup) -->
+  <!-- * [Usage](#usage) -->
+  <!-- * [Project Status](#project-status) -->
+  <!-- * [Room for Improvement](#room-for-improvement) -->
+  <!-- * [Acknowledgements](#acknowledgements) -->
+- [Contact](#contact)
+- [License](#license)
 
-### Connect with me:
+## General Information
 
-[![website](./img/globe-light.svg)](https://gombeng-portfolio.netlify.app#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://gombeng-portfolio.netlify.app#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/syahrizal-ardana-45399a1b1#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/syahrizal-ardana-45399a1b1#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/msr.gombeng#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/msr.gombeng#gh-dark-mode-only)
+- Provide general information about your project here.
+- What problem does it (intend to) solve?
+- What is the purpose of your project?
+- Why did you undertake it?
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-### Languages and Tools:
+## Technologies Used
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />][]
+- ReactJS
+- SASS
+- NPM
+
+<!-- ## Features
+List the ready features here:
+- Awesome feature 1
+- Awesome feature 2
+- Awesome feature 3 -->
+
+## Screenshots
+
+![Example screenshot](./img/portfolio-desktop.png)
+![Example screenshot](./img/portfolio-mobile.png)
+
+<!-- If you have screenshots you'd like to share, include them here. -->
+
+<!-- ## Setup
+What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+
+Proceed to describe how to install / setup one's local environment / get started with the project. -->
+
+<!-- ## Usage
+How does one go about using it?
+Provide various use cases and code examples here.
+
+`write-your-code-here` -->
+
+<!-- ## Project Status
+Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why. -->
+
+<!-- ## Room for Improvement
+Include areas you believe need improvement / could be improved. Also add TODOs for future development.
+
+Room for improvement:
+- Improvement to be done 1
+- Improvement to be done 2
+
+To do:
+- Feature to be added 1
+- Feature to be added 2 -->
+
+<!-- ## Acknowledgements
+Give credit here.
+- This project was inspired by...
+- This project was based on [this tutorial](https://www.example.com).
+- Many thanks to... -->
+
+## Contact
+
+Created by [@Syahrizal](https://gombeng-portfolio.netlify.app/) - feel free to contact me!
+
+<!-- Optional -->
+
+## License
+
+This project is open source and available under the [... License]().
+
+<!-- You don't have to include all sections - just the one's relevant to your project -->
