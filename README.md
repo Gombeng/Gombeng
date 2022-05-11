@@ -5,7 +5,8 @@
 
 ## Table of Contents
 
-- [General Info](#general-information)
+<!-- - [General Info](#general-information) -->
+
 - [Technologies Used](#technologies-used)
 <!-- * [Features](#features) -->
 - [Screenshots](#screenshots)
@@ -15,14 +16,14 @@
   <!-- * [Room for Improvement](#room-for-improvement) -->
   <!-- * [Acknowledgements](#acknowledgements) -->
 - [Contact](#contact)
-- [License](#license)
+- [Copyright](#copyright)
 
-## General Information
+<!-- ## General Information
 
 - Provide general information about your project here.
 - What problem does it (intend to) solve?
 - What is the purpose of your project?
-- Why did you undertake it?
+- Why did you undertake it? -->
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Technologies Used
@@ -79,10 +80,8 @@ Give credit here.
 
 Created by [@Syahrizal](https://gombeng-portfolio.netlify.app/) - feel free to contact me!
 
-<!-- Optional -->
+## Copyright
 
-## License
-
-This project is open source and available under the [... License]().
+&copy; Syahrizal Ardana 2022
 
 <!-- You don't have to include all sections - just the one's relevant to your project -->
