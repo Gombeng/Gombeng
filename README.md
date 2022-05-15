@@ -27,8 +27,8 @@
 
 ---
 
-### :man_technologist: About Me:
-I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me:
+Hi, I am Syahrizal Ardana, from Indonesia. I am interested in various things related to front-end development. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gombeng&layout=compact&theme=vision-friendly-dark)](https://github.com/Gombeng/github-readme-stats)
 
